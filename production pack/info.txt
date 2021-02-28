@@ -1,0 +1,9 @@
+2 Cu layers
+size: 82.5 x 89.5mm 
+material: FR4 1.6mm
+mask: RED
+silk: both sides, white
+clearance: 0.15mm
+min. width: 0.25mm
+min. drill 0.3mm
+finish: HAL tin Pb
