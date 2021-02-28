@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name stm32g474)(type Legacy)(uri "C:/Users/jkmbo/Documents/PCronix/Projekty/G4 Eval/g4_eval/lib/STM32G474QET6/STM32G474QET6.lib")(options "")(descr ""))
+)

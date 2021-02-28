@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name mcu_board_1)(type KiCad)(uri ${KIPRJMOD}/lib/mcu_board_1.pretty)(options "")(descr ""))
+)

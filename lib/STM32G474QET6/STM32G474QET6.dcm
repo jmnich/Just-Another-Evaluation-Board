@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32G474QET6
+D MCU 32-bit ARM Cortex M4F RISC 512KB Flash 3.3V 128-Pin LQFP Tray
+K
+F https://componentsearchengine.com/Datasheets/1/STM32G474QET6.pdf
+$ENDCMP
+#
+#End Doc Library
